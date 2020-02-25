@@ -23,5 +23,7 @@ I have many lines
 _Multiple words emph_
 *emph*
 
+Omg this _word_ is emph and this _one_ also !
+
 **bold**
 __bold__
