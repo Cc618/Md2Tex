@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 # Markdown to Tex script
 # usage : md2tex.sh <file>
 
