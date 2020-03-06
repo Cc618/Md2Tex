@@ -67,6 +67,12 @@ I have many lines
 \textbf{bold}
 ```
 
+## Features
+
+- Sections
+- Style (bold / emph)
+- Option to disable wildcards ($NO_WILDCARD)
+
 ## Depedencies
 
-Requires only the __sed__ command.
+Requires the __sed__ and __cat__ command.
